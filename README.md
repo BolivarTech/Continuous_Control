@@ -86,3 +86,5 @@ The -p option is used to play the agent on the environment using the
 model specified on the -a flag, the -c flag is not needed.
 
 The -h option shows the command's flags help
+
+Note: The recomended play model is model-39.0938-actor.pth
