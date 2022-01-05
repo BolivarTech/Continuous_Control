@@ -49,14 +49,12 @@ implemented algorithms wait for 20000 more episodes and 8 exploratory
 retries to verify if is not more improves occurs on the last 100
 episodes average.
 
-![](./docs/img/media/image1.png){width="6.752330489938758in"
-height="3.1791666666666667in"}
+![](./docs/img/media/image1.png)
 
 Using the trained model, 100 episodes were executed on play mode in
 order to verify the model's performance.
 
-![](./docs/img/media/image2.png){width="6.71125in"
-height="2.95in"}
+![](./docs/img/media/image2.png)
 
 On the previous plot is possible view that agent have an average score
 of 38.6 over 100 episodes
